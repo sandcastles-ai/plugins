@@ -10,6 +10,7 @@
   "homepage": "https://sandcastles.ai",
   "repository": "https://github.com/sandcastles-ai/plugins",
   "icon": "./logo.png",
+  "documentationUrl": "https://help.sandcastles.ai",
   "supportUrl": "https://sandcastles.ai/contact",
   "privacyPolicyUrl": "https://sandcastles.ai/legal/privacy-policy",
   "termsOfServiceUrl": "https://sandcastles.ai/legal/terms-of-service"

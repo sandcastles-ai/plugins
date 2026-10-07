@@ -1,0 +1,15 @@
+{
+  "name": "sandcastles",
+  "owner": {
+    "name": "Sandcastles",
+    "url": "https://sandcastles.ai"
+  },
+  "description": "Sandcastles plugins for researching short-form video content",
+  "plugins": [
+    {
+      "name": "sandcastles",
+      "source": "./claude",
+      "description": "Your content strategist for Instagram, TikTok, and YouTube Shorts"
+    }
+  ]
+}

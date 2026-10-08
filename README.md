@@ -6,6 +6,8 @@ Plugins that connect AI assistants to [Sandcastles](https://sandcastles.ai), you
 | --- | --- |
 | `claude/` | Claude plugin, also listed in Anthropic's directory |
 | `chatgpt/` | ChatGPT plugin package, ready to upload to the ChatGPT plugin directory |
+| `cursor/` | Cursor plugin, also available in Grok Bot through the Cursor Marketplace |
+| `grok-build/` | Grok Build plugin |
 
 ## Install in Claude Code
 
@@ -14,9 +16,20 @@ Plugins that connect AI assistants to [Sandcastles](https://sandcastles.ai), you
 /plugin install sandcastles@sandcastles
 ```
 
+## Install in Grok Build
+
+```
+grok plugin marketplace add sandcastles-ai/plugins
+grok plugin install sandcastles --trust
+```
+
+## Install in Cursor
+
+Open **Customize** in the Cursor sidebar, search for Sandcastles, and select **Install**.
+
 ## Generated files
 
-Everything in `claude/` and `chatgpt/` is generated from the Sandcastles API repository by `make build-plugin`. Don't edit these files by hand; changes are overwritten by the next build.
+Everything in `claude/`, `chatgpt/`, `cursor/`, and `grok-build/` is generated from the Sandcastles API repository by `make build-plugin`. Don't edit these files by hand; changes are overwritten by the next build.
 
 ## Support
 

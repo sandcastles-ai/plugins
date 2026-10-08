@@ -1,0 +1,16 @@
+{
+  "name": "sandcastles",
+  "owner": {
+    "name": "Sandcastles"
+  },
+  "metadata": {
+    "description": "Sandcastles plugins for researching short-form video content"
+  },
+  "plugins": [
+    {
+      "name": "sandcastles",
+      "source": "./cursor",
+      "description": "Your content strategist for Instagram, TikTok, and YouTube Shorts"
+    }
+  ]
+}

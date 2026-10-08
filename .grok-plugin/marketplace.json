@@ -1,0 +1,17 @@
+{
+  "name": "sandcastles",
+  "owner": {
+    "name": "Sandcastles"
+  },
+  "description": "Sandcastles plugins for researching short-form video content",
+  "plugins": [
+    {
+      "name": "sandcastles",
+      "source": {
+        "type": "local",
+        "path": "./grok-build"
+      },
+      "description": "Your content strategist for Instagram, TikTok, and YouTube Shorts"
+    }
+  ]
+}

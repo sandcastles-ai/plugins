@@ -25,7 +25,11 @@ grok plugin install sandcastles --trust
 
 ## Install in Cursor
 
-Open **Customize** in the Cursor sidebar, search for Sandcastles, and select **Install**.
+Open **Customize** in the Cursor sidebar, search for Sandcastles, and select **Install**. Until the plugin is listed in the Cursor Marketplace, add the MCP server with [this install link](https://cursor.com/install-mcp?name=sandcastles&config=eyJ1cmwiOiJodHRwczovL21jcC5zYW5kY2FzdGxlcy5haS8ifQ%3D%3D), or see the [Cursor setup guide](https://help.sandcastles.ai/mcp-cursor).
+
+## Install in Grok Bot
+
+Open **Marketplace** in the Grok Bot sidebar, search for Sandcastles, and add it. Until the plugin is listed, see the [Grok Bot setup guide](https://help.sandcastles.ai/mcp-grok-bot).
 
 ## Generated files
 

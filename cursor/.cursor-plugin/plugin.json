@@ -1,0 +1,23 @@
+{
+  "name": "sandcastles",
+  "displayName": "Sandcastles",
+  "version": "1.0.8",
+  "description": "Your content strategist for Instagram, TikTok, and YouTube Shorts",
+  "author": {
+    "name": "Sandcastles"
+  },
+  "homepage": "https://sandcastles.ai",
+  "repository": "https://github.com/sandcastles-ai/plugins",
+  "license": "MIT",
+  "logo": "logo.png",
+  "keywords": [
+    "sandcastles",
+    "short-form video",
+    "tiktok",
+    "instagram reels",
+    "youtube shorts",
+    "content strategy"
+  ],
+  "category": "integrations",
+  "mcpServers": "./mcp.json"
+}
